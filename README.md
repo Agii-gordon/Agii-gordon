@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Agii-gordon
-- 👀 I’m interested in data analysis
-- 🌱 I’m currently learning SQL
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning Sofware Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
